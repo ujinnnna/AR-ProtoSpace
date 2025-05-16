@@ -38,14 +38,14 @@ AR Foundation을 활용해 사용자가 3D 오브젝트를 직접 회전, 이동
 ---
 
 ### 🖼 AR Tracked Image  
-![AR Tracked Image](./gif/imageTrack.gif)  
+![AR Tracked Image](./gif/imagetTrack.gif)  
 **이미지 인식 + 오브젝트 증강**  
 사전 등록한 이미지를 인식하고, 해당 이미지 위에 3D 오브젝트를 증강합니다.
 
 ---
 
 ### 🧱 AR Plane Classification  
-![AR Plane Classification](./gif/planClassification.gif)  
+![AR Plane Classification](./gif/planeClassification.gif)  
 **평면 분류 + 시각화**  
 ARKit의 Plane Classification 기능을 활용해 평면을 바닥/벽/천장으로 분류하고, 색상으로 시각화합니다.
 
