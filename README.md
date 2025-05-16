@@ -1,2 +1,2 @@
 # AR-ProtoSpace
-AR apps built with Unity, ARFoundation, and ARKit
+Prototyping AR experiences with Unity, ARFoundation, and ARKit — exploring interaction, tracking, and spatial features.
