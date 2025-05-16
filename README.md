@@ -10,7 +10,7 @@ Unity와 AR Foundation을 활용해 다양한 AR 기능을 실험한 프로젝�
 ## 🎮 데모 목록
 
 ### 🧩 AR Interaction
-![AR Interaction](./media/ar_interaction.gif)  
+![AR Interaction](./gif/interaction.gif)  
 **Object Position / Rotation / Scale 조작**  
 AR Foundation을 활용해 사용자가 3D 오브젝트를 직접 회전, 이동, 스케일 조절할 수 있는 인터랙션을 구현했습니다.
 
