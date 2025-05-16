@@ -1,5 +1,4 @@
 # AR-ProtoSpace
-# 📱 AR Foundation Demo Collection
 
 Unity와 AR Foundation을 활용해 다양한 AR 기능을 실험한 프로젝트입니다.  
 아래는 주요 기능별 데모 목록입니다.  
